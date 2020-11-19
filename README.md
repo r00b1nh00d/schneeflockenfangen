@@ -13,7 +13,7 @@ In diesem Spiel sollen Schneeflocke vom oberen Bildschirmrand herab fallen. Dies
 Wird sie nicht gefangen und erreicht den unteren Bildschirmrand soll eine neue von einer zufälligen Position von oben herab fallen und von deinem Rundenzähler eins abgezogen werden. <br>
 Ist der Rundentimer abgelaufen soll das Spiel enden. <br>
 
-![SchneeflockenFangen] (https://github.com/r00b1nh00d/schneeflockenfangen/blob/master/SchneeflockenFangen.gif?raw=true)
+![SchneeflockenFangen](https://github.com/r00b1nh00d/schneeflockenfangen/blob/master/SchneeflockenFangen.gif?raw=true)
 
 ## Schritt 1 Erstelle eine Spielfigur zum fangen der Schneeflocken
 Beginne damit eine Spielfigur zum fangen der Schneeflocken zu erstellen indem du eine ``||Variables: Variable||`` namens ``||Variables: Fänger||`` festlegst. <br>
