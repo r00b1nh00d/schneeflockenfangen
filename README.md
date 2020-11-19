@@ -13,6 +13,8 @@ In diesem Spiel sollen Schneeflocke vom oberen Bildschirmrand herab fallen. Dies
 Wird sie nicht gefangen und erreicht den unteren Bildschirmrand soll eine neue von einer zufälligen Position von oben herab fallen und von deinem Rundenzähler eins abgezogen werden. <br>
 Ist der Rundentimer abgelaufen soll das Spiel enden. <br>
 
+![SchneeflockenFangen] (https://github.com/r00b1nh00d/schneeflockenfangen/blob/master/SchneeflockenFangen.gif?raw=true)
+
 ## Schritt 1 Erstelle eine Spielfigur zum fangen der Schneeflocken
 Beginne damit eine Spielfigur zum fangen der Schneeflocken zu erstellen indem du eine ``||Variables: Variable||`` namens ``||Variables: Fänger||`` festlegst. <br>
 Mit dem Block ``||Variables: Setze Fänger auf||`` legst du fest, was auf dieser Variablen gespeichert wird, dies kann beim Start des @boardname@ erfolgen, daher kommt dieser Block in den Block ``||basic: Beim Start||``. <br>
@@ -106,32 +108,13 @@ basic.forever(function () {
 ```
 
 
+## Als Tutorial verwenden
 
-> Diese Seite bei [https://r00b1nh00d.github.io/schneeflockenfangen/](https://r00b1nh00d.github.io/schneeflockenfangen/) öffnen
+Dieses Repository kann als **Tutorial** für MakeCode verwenden.
 
-## Als Erweiterung verwenden
+öffne dazu den Link: [https://makecode.calliope.cc/#tutorial:https://github.com/r00b1nh00d/schneeflockenfangen]
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/r00b1nh00d/schneeflockenfangen** suchen und importieren
-
-## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/r00b1nh00d/schneeflockenfangen/workflows/MakeCode/badge.svg)
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/r00b1nh00d/schneeflockenfangen** ein und klicke auf Importieren
-
-## Blockvorschau
-
-Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
-Die Aktualisierung dieses Bildes kann einige Minuten dauern.
-
-![Eine gerenderte Ansicht der Blöcke](https://github.com/r00b1nh00d/schneeflockenfangen/raw/master/.github/makecode/blocks.png)
 
 #### Metadaten (verwendet für Suche, Rendering)
 
